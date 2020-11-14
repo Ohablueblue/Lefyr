@@ -24,7 +24,7 @@ Olá, me chamo Command, tenho 17 anos e atualmente estou morando em Quioto, Jap�
       Pro Gamer 29UM69G Lg CX 1 UN
 
 
-#                                                                    *Linguagens é ferramentas*
+#                                                                    *Linguagens e ferramentas*
 
   **Python**:
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/commandrose/Python)](https://github.com/https://github.com/commandrose/Python)
