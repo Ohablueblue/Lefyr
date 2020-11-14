@@ -24,7 +24,7 @@
 
 
 
-![commandrose github stats](https://github-readme-stats.vercel.app/api?username=commandrose&show_icons=true&theme=graywhite) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=commandrose&layout=compact)](https://github.com/commanrose/github-readme-stats)
+![Command Status](https://github-readme-stats.vercel.app/api?username=commandrose&show_icons=true&theme=graywhite) [![Command Horas](https://github-readme-stats.vercel.app/api/wakatime?username=commandrose)](https://github.com/commandrose/github-readme-stats)
 
 
 
