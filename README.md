@@ -31,5 +31,8 @@ Aqui são alguma das coisas que eu ja sei e o que estão pendentes ainda para mi
 |Linguagens completas|`PYTHON,Kotlin,Ruby`            |'98%'            |
 |Linguagens Pendentes          |`Typescript,C++ é Lua`            |"38%"            |
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![Life is Beautiful](https://i.pinimg.com/originals/71/b8/df/71b8dfab0b561e3963270831b78bbd0f.jpg)
