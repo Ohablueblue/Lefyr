@@ -8,7 +8,7 @@
 >     `Kotlin, Ruby é python.`
 
 
-#                                                                    *Linguagens*
+#                                                                    *Linguagens é ferramentas*
 
   **Python**:
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/commandrose/Python)](https://github.com/https://github.com/commandrose/Python)
