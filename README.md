@@ -20,6 +20,11 @@
   [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/commandrose/Python)](https://github.com/commandrose/Python)
   [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/commandrose/Python)](https://github.com/commandrose/Python) 
 
+  **SQL:**
+  [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/commandrose)](https://github.com/commandrose)
+  [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/commandrose)](https://github.com/commandrose)
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/commandrose)](https://github.com/commandrose)
+
 
 #                                                                    *MEU PC*
 
