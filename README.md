@@ -61,7 +61,7 @@ Redes De Computadores é banco de dados.
 
 
 
-![Life is Beautiful](https://i.pinimg.com/originals/71/b8/df/71b8dfab0b561e3963270831b78bbd0f.jpg)
+![Life is Beautiful](https://giffiles.alphacoders.com/147/147382.gif)
 
 
 ![Command Status](https://github-readme-stats.vercel.app/api?username=commandrose&show_icons=true&theme=graywhite)
