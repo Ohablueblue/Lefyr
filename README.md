@@ -1,6 +1,6 @@
 #                                                                    *COMMAND*
 
-  ![Life is Beautiful](https://i.gifer.com/nku.gif)
+  ![Life is Beautiful](https://i.gifer.com/1VOo.gif)
 
                                            Olá, me chamo command, tenho 17 anos, atualmente estou morando e
                                            Quioto japão, sou formado em tecnico de informatica, estou estudando
