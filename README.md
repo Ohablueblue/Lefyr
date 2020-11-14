@@ -32,4 +32,4 @@ Aqui são alguma das coisas que eu ja sei e o que estão pendentes ainda para mi
 |Linguagens Pendentes          |`Typescript,C++ é Lua`            |"38%"            |
 
 
-![Life is Beautiful](https://i.pinimg.com/originals/d6/76/59/d6765948e33b37183495b64de46b0b41.jpg)
+![Life is Beautiful](https://i.pinimg.com/originals/71/b8/df/71b8dfab0b561e3963270831b78bbd0f.jpg)
