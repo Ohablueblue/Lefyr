@@ -11,7 +11,7 @@ Ol√°, me chamo Command, tenho 17 anos e atualmente estou morando em Quioto, Jap√
 <a href="https://instagram.com/commandrose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="commandrose" height="40" width="40" /></a>
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=commandrose" alt="maykbrito" /> </p>
 
 #                                                                    *MEU PC*
 
