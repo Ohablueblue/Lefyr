@@ -62,6 +62,6 @@ Redes De Computadores é banco de dados.
 
 
 <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/147/147382.gif" />
-誰も良くなりたくないのなら、良いことは悪くないようにしよう、世界は混乱している、それは私たちをどこまで連れて行くのだろうか？
+誰も良くなりたくないのなら、良いことは悪くないようにしよう、世界は混乱している、それは私たちをどこまで連れて行くのだろうか？ 元カレは人生が短いので、また泣きながら自分に言い聞かせて、戻ってきてみませんか？私はそれをしますが、私のためではありません、私はそのようになりたくありませんでしたが、残念ながら私はそうです、あなたは私を許しますか？
 
 ![Command Status](https://github-readme-stats.vercel.app/api?username=commandrose&show_icons=true&theme=graywhite)
