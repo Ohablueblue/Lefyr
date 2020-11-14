@@ -2,10 +2,9 @@
 
   
 
-> Olá, me chamo command, tenho 17 anos, atualmente estou morando e
->     Quioto japão, sou formado em tecnico de informatica, estou estudando
->     Redes De Computadores é banco de dados, Sei algumas Linguagens Como:
->     `Kotlin, Ruby é python.`
+                                           Olá, me chamo command, tenho 17 anos, atualmente estou morando e
+                                           Quioto japão, sou formado em tecnico de informatica, estou estudando
+                                           Redes De Computadores é banco de dados.
 <p align="center">
 <a href="https://dev.to/command" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="commandrose" height="40" width="40" /></a>
 <a href="https://twitter.com/command4071" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="commandrose" height="40" width="40" /></a>
