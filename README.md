@@ -62,11 +62,6 @@ Redes De Computadores é banco de dados.
 
 
 <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/147/147382.gif" />
-初しぐれ – はつしぐれ -o primeiro banho gelado
-猿も小蓑を- さるもこみのを- mesmo os macacos parecem querer
-ほしげ也 – ほしげなり- um pequeno casaco de palha
-江戸の雨 – えどのあめ – quantos galões
-何石呑んだ – なんごくのんだ – da chuva de Edo você bebeu?
-時鳥 – ほととぎす – Por que?
+誰も良くなりたくないのなら、良いことは悪くないようにしよう、世界は混乱している、それは私たちをどこまで連れて行くのだろうか？
 
 ![Command Status](https://github-readme-stats.vercel.app/api?username=commandrose&show_icons=true&theme=graywhite)
