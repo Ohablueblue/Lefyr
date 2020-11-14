@@ -8,7 +8,17 @@
 >     `Kotlin, Ruby é python.`
 
 
+#                                                                    *Linguagens*
 
+  **Python**:
+  [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/commandrose/Python)](https://github.com/https://github.com/commandrose/Python)
+  [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/commandrose/Python)](https://github.com/commandrose/Python)
+  [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/commandrose/Python)](https://github.com/commandrose/Python)
+  [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/commandrose/Python)](https://github.com/commandrose/Python)
+  [![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white&link=https://github.com/commandrose/Python)](https://github.com/commandrose/Python)
+  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/commandrose/Python)](https://github.com/commandrose/Python)
+  [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/commandrose/Python)](https://github.com/commandrose/Python)
+  [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/commandrose/Python)](https://github.com/commandrose/Python) 
 
 
 #                                                                    *MEU PC*
