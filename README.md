@@ -1,4 +1,4 @@
-                                                                    # *COMMAND*
+#                                                                    *COMMAND*
 
   
 
@@ -11,7 +11,7 @@
 
 
 
-# MEU PC
+#                                                                    *MEU PC*
 
       Processador AMD Rzen 7 2700 3,2Ghz 
       Placa de Video PowerColor
@@ -22,7 +22,7 @@
       Pro Gamer 29UM69G Lg CX 1 UN
 
 
-## *Cursos*
+#                                                                    *Cursos*
 
 Aqui são alguma das coisas que eu ja sei e o que estão pendentes ainda para mim
 
