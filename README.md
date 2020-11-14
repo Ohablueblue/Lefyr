@@ -25,6 +25,22 @@
   [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/commandrose)](https://github.com/commandrose)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/commandrose)](https://github.com/commandrose)
 
+### Ferramentas
+
+**Desenvolvimento de software**
+[![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white&link=https://github.com/commandrose "Eclipse IDE")](https://github.com/commandrose)
+[![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/commandrose "NetBeans IDE")](https://github.com/commandrose)
+[![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/commandrose "IntelliJ IDEA")](https://github.com/commandrose)
+[![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white&link=https://github.com/commandrose "Docker")](https://github.com/commandrose)
+[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/commandrose "Visual Studio")](https://github.com/commandrose)
+[![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/commandrose "Android Studio" )](https://github.com/commandrose)
+[![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/commandrose "Vim")](https://github.com/commandrose)
+[![Emacs](https://img.shields.io/badge/-7F5AB6?style=flat&logo=GNU-Emacs&logoColor=white&link=https://github.com/commandrose "Emacs")](https://github.com/commandrose)
+[![RStudio](https://img.shields.io/badge/-75AADB?style=flat&logo=RStudio&logoColor=white&link=https://github.com/commandrose "RStudio")](https://github.com/commandrose)
+[![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/commandrose "XCode")](https://github.com/commandrose)
+[![AzureDevops](https://img.shields.io/badge/-0175C2?style=flat&logo=azureDevops&logoColor=white&link=https://github.com/commandrose "AzureDevops")](https://github.com/commandrose)
+[![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/commandrose "LeetCode")](https://github.com/commandrose)
+
 
 #                                                                    *MEU PC*
 
