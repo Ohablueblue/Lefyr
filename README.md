@@ -64,4 +64,4 @@ Redes De Computadores é banco de dados.
 ![Life is Beautiful](https://i.pinimg.com/originals/71/b8/df/71b8dfab0b561e3963270831b78bbd0f.jpg)
 
 
-![Command Status](https://github-readme-stats.vercel.app/api?username=commandrose&show_icons=true&theme=graywhite) [![Command Horas](https://github-readme-stats.vercel.app/api/wakatime?username=command)](https://github.com/commandrose/github-readme-stats)
+![Command Status](https://github-readme-stats.vercel.app/api?username=commandrose&show_icons=true&theme=graywhite)
