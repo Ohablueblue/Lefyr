@@ -60,14 +60,15 @@ Olá, me chamo Command, tenho 17 anos e atualmente estou morando em Quioto, Jap�
 
 
 <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/147/147382.gif" />
-誰も良くなりたくないのなら、良いことは悪くないようにしよう、世界は混乱している、それは私たちをどこまで連れて行くのだろうか？ 元カレは人生が短いので、また泣きながら自分に言い聞かせて、戻ってきてみませんか？私はそれをしますが、私のためではありません、私はそのようになりたくありませんでしたが、残念ながら私はそうです、あなたは私を許しますか？
-
-![Command Status](https://github-readme-stats.vercel.app/api?username=commandrose&show_icons=true&theme=graywhite)
-
-<h3 align="center">Conecte-se comigo</h3>
-<p align="center">
+<h3 align="right">Conecte-se comigo</h3>
+<p align="right">
 <a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
 <a href="https://twitter.com/command40A71" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
 <a href="https://twitch.tv/command40A71" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
+誰も良くなりたくないのなら、良いことは悪くないようにしよう、世界は混乱している、それは私たちをどこまで連れて行くのだろうか？ 元カレは人生が短いので、また泣きながら自分に言い聞かせて、戻ってきてみませんか？私はそれをしますが、私のためではありません、私はそのようになりたくありませんでしたが、残念ながら私はそうです、あなたは私を許しますか？
+
+![Command Status](https://github-readme-stats.vercel.app/api?username=commandrose&show_icons=true&theme=graywhite)
+
+
 
