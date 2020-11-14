@@ -22,14 +22,7 @@
       Pro Gamer 29UM69G Lg CX 1 UN
 
 
-#                                                                    *Cursos*
 
-Aqui são alguma das coisas que eu ja sei e o que estão pendentes ainda para mim
-
-|                |Cursos                          |Completo                         |
-|----------------|-------------------------------|-----------------------------|
-|Linguagens completas|`PYTHON,Kotlin,Ruby`            |'98%'            |
-|Linguagens Pendentes          |`Typescript,C++ é Lua`            |"38%"            |
 
 ![commandrose github stats](https://github-readme-stats.vercel.app/api?username=commandrose&show_icons=true&theme=graywhite) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=commandrose&layout=compact)](https://github.com/commanrose/github-readme-stats)
 
