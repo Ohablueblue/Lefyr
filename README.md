@@ -31,7 +31,7 @@ Aqui são alguma das coisas que eu ja sei e o que estão pendentes ainda para mi
 |Linguagens completas|`PYTHON,Kotlin,Ruby`            |'98%'            |
 |Linguagens Pendentes          |`Typescript,C++ é Lua`            |"38%"            |
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![commandrose github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
