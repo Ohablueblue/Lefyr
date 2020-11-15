@@ -66,7 +66,7 @@ Ol√°, me chamo Command, tenho 17 anos e atualmente estou morando em Quioto, Jap√
 </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=commandrose&show_icons=true&include_all_commits=true&count_private=true" alt="commandrose"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=commandrose&show_icons=true&include_all_commits=true&count_private=true&card_width=300" alt="commandrose"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=commandrose&layout=compact&card_width=300" alt="commandrose"/></p>
 
