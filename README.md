@@ -1,6 +1,6 @@
 #                                                                    *COMMAND*
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/67/fe/04/67fe04284ece05f8e709ca8e40f70607.png" />
+<img align="right" alt="GIF" src="https://data.whicdn.com/images/194151802/original.png" />
 
 <p align="center">Olá, me chamo Command, tenho 17 anos e atualmente estou morando em Quioto, Japão. Sou formado em Tecnologia da Informática e estou estudando Redes de Computadores e Banco de Dados.
 </p>
