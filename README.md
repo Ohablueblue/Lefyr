@@ -2,7 +2,8 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/67/fe/04/67fe04284ece05f8e709ca8e40f70607.png" />
 
-Olá, me chamo Command, tenho 17 anos e atualmente estou morando em Quioto, Japão. Sou formado em Tecnologia da Informática e estou estudando Redes de Computadores e Banco de Dados.
+<p align="center">Olá, me chamo Command, tenho 17 anos e atualmente estou morando em Quioto, Japão. Sou formado em Tecnologia da Informática e estou estudando Redes de Computadores e Banco de Dados.
+</p>
 
 <p align="center">
 <a href="https://dev.to/command" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="commandrose" height="40" width="40" /></a>
