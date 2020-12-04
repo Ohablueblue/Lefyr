@@ -6,7 +6,7 @@
 <a href="https://instagram.com/commandrose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="commandrose" height="20" width="20" /></a>
 </p>
 
-<img align="right" alt="GIF" src="https://data.whicdn.com/images/194151802/original.png" />
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/7e94056d253a2ff20973eae03c0af40d/tumblr_oab2hse3CW1va9n9to1_500.png" />
 
 <p align="center">Olá, me chamo Command, tenho 17 anos e atualmente estou morando em Quioto, Japão. Sou formado em Tecnologia da Informática e estou estudando Redes de Computadores e Banco de Dados.
 </p>
