@@ -59,7 +59,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/50df0cae001cc6fd35eddb1edb1b8737/tumblr_nxaucpOj1P1uy2kano1_500.png" />
+<img align="center" alt="GIF" src="https://64.media.tumblr.com/6819f6b274751493e75f5f98383c1d38/tumblr_ok09s6YWzR1trquluo4_1280.png" />
 誰も良くなりたくないのなら、良いことは悪くないようにしよう、世界は混乱している、それは私たちをどこまで連れて行くのだろうか？ 元カレは人生が短いので、また泣きながら自分に言い聞かせて、戻ってきてみませんか？私はそれをしますが、私のためではありません、私はそのようになりたくありませんでしたが、残念ながら私はそうです、あなたは私を許しますか？
 <p align="center">
 <a href="https://discord.gg/RqaHAWzgGN" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
