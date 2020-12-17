@@ -6,7 +6,7 @@
 <a href="https://instagram.com/Cmmdx0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Cmmdx0" height="20" width="20" /></a>
 </p>
 
-<img align="right" alt="GIF" height="200" width="200" src="https://i.pinimg.com/originals/81/47/82/81478209457f2e95c03806a0a424ad17.png" />
+<img align="right" alt="GIF" height="200" width="200" src="https://f4.bcbits.com/img/0013757908_10.jpg" />
 
 <p align="center">Olá, me chamo Command, tenho 17 anos e atualmente estou morando em Quioto, Japão. Sou formado em Tecnologia da Informática e estou estudando Redes de Computadores e Banco de Dados.
 </p>
@@ -57,7 +57,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://i.ytimg.com/vi/LH0PvIbOxVI/maxresdefault.jpg" />
+<img align="right" alt="GIF" height="500" width="500" src="https://i.ytimg.com/vi/LH0PvIbOxVI/maxresdefault.jpg" />
 <br>
 <p align="center"> 誰も良くなりたくないのなら、良いことは悪くないようにしよう、世界は混乱している、それは私たちをどこまで連れて行くのだろうか？ 元カレは人生が短いので、また泣きながら自分に言い聞かせて、戻ってきてみませんか？私はそれをしますが、私のためではありません、私はそのようになりたくありませんでしたが、残念ながら私はそうです、あなたは私を許しますか？
 </p>
