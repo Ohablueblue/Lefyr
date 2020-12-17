@@ -11,7 +11,7 @@
 <p align="center">Olá, me chamo Command, tenho 17 anos e atualmente estou morando em Quioto, Japão. Sou formado em Tecnologia da Informática e estou estudando Redes de Computadores e Banco de Dados.
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username="Cmmdx0" alt="Cmmdx0" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username="Cmmdx0" alt="Cmmdx0" height="30" width="30" /> </p>
 
 #                                                                    *MEU PC*
 
