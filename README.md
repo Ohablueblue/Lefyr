@@ -6,11 +6,9 @@
 <a href="https://instagram.com/Cmmdx0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Cmmdx0" height="20" width="20" /></a>
 </p>
 
-<img align="right" alt="GIF" height="200" width="200" src="https://f4.bcbits.com/img/0013757908_10.jpg" />
-
 <p align="center">Olá, me chamo Command, tenho 17 anos e atualmente estou morando em Quioto, Japão. Sou formado em Tecnologia da Informática e estou estudando Redes de Computadores e Banco de Dados.
 </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Cmmdx0" alt="maykbrito" /> </p>
 #                                                                    *MEU PC*
 
       Processador AMD Rzen 7 2700 3,2Ghz 
