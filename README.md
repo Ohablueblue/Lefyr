@@ -6,7 +6,7 @@
 <a href="https://instagram.com/Cmmdx0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Cmmdx0" height="20" width="20" /></a>
 </p>
 
-<img align="right" alt="GIF" height="250" width="250"  src="https://i.kym-cdn.com/photos/images/original/001/481/456/1f2.gif" />
+<img align="right" alt="GIF" height="250" width="250"  src="https://www.pikpng.com/pngl/b/198-1987903_computer-overlays-vaporwave-aesthetic-tabs-aesthetic-computer-window.png" />
 
 <p align="center">Hello, my name is Command, I am 17 years old and I am currently living in Kyoto, Japan. I am graduated in Information Technology and I am studying Computer Networks and Database.
 </p>
