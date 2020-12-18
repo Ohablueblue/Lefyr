@@ -6,10 +6,12 @@
 <a href="https://instagram.com/Cmmdx0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Cmmdx0" height="20" width="20" /></a>
 </p>
 
-<p align="center">Olá, me chamo Command, tenho 17 anos e atualmente estou morando em Quioto, Japão. Sou formado em Tecnologia da Informática e estou estudando Redes de Computadores e Banco de Dados.
+<img align="right" alt="GIF" src="https://i.kym-cdn.com/photos/images/original/001/481/456/1f2.gif" />
+
+<p align="center">Hello, my name is Command, I am 17 years old and I am currently living in Kyoto, Japan. I am graduated in Information Technology and I am studying Computer Networks and Database.
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Cmmdx0" alt="maykbrito" /> </p>
-#                                                                    *MEU PC*
+#                                                                    *MY SETUP*
 
       Processador AMD Rzen 7 2700 3,2Ghz 
       Placa de Video PowerColor
@@ -20,7 +22,7 @@
       Pro Gamer 29UM69G Lg CX 1 UN
 
 
-#                                                                    *Linguagens e ferramentas*
+#                                                                    *Languages and tools*
 
   **Python**:
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Cmmdx0/Python)](https://github.com/https://github.com/Cmmdx0/Python)
@@ -37,9 +39,9 @@
   [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Cmmdx0)](https://github.com/Cmmdx0)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Cmmdx0)](https://github.com/Cmmdx0)
 
-### Ferramentas
+### Tools
 
-**Desenvolvimento de software**
+**Software development**
 [![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white&link=https://github.com/Cmmdx0 "Eclipse IDE")](https://github.com/Cmmdx0)
 [![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/Cmmdx0 "NetBeans IDE")](https://github.com/Cmmdx0)
 [![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/Cmmdx0 "IntelliJ IDEA")](https://github.com/Cmmdx0)
