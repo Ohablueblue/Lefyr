@@ -64,9 +64,12 @@
 </p>
 <br><br>
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cmmdx0&theme=graywhite&show_icons=true" alt="Cmmdx0"/></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmmdx0&theme=graywhite&layout=compact&card_width=450" alt="Cmmdx0"/></p>
+ <details style='text-align: center;' align='center'>
+  <summary> Click Here </summary>
+  <p style="text-align: center;"align="center">============================================================</p>
+  <p style="text-align: center;"align="center"><p style="text-align: center;"align="center"><a href="https://github.com/Cmmdx0"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cmmdx0&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=03ff07&text_color=9f9f9f&bg_color=000000" alt="G3ZZING stats" /></a></p>
+  <p style="text-align: center;"align="center"><a href="https://github.com/Cmmdx0?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmmdx0&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000" /></a></p>
+  <p style="text-align: center;"align="center">============================================================</p>
+</details>
 
 
