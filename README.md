@@ -58,7 +58,7 @@
 
 
 
-<img align="right" alt="GIF" height="400" width="800" src="https://camo.githubusercontent.com/72f8ce452242a6b351108c1686ffa2d605ba80fd8061d50f6cb7a87c9943f393/687474703a2f2f692e696d6775722e636f6d2f696c4151456d332e676966" />
+<img align="right" alt="GIF" height="400" width="800" src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1302a9a9-3623-4e8a-ae62-6386012c8391/17-notepad-opt.jpg" />
 <br>
 <p align="center"> 誰も良くなりたくないのなら、良いことは悪くないようにしよう、世界は混乱している、それは私たちをどこまで連れて行くのだろうか？ 元カレは人生が短いので、また泣きながら自分に言い聞かせて、戻ってきてみませんか？私はそれをしますが、私のためではありません、私はそのようになりたくありませんでしたが、残念ながら私はそうです、あなたは私を許しますか？
 </p>
