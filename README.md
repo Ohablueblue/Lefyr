@@ -11,7 +11,7 @@
 <p align="center">Hello, my name is Command, I am 17 years old and I am currently living in Kyoto, Japan. I am graduated in Information Technology and I am studying Computer Networks and Database.
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Cmmdx0" alt="maykbrito" /> </p>
-#                                                                    *MY SETUP*
+                                                                    **MY SETUP**
 
       Processador AMD Rzen 7 2700 3,2Ghz 
       Placa de Video PowerColor
