@@ -55,7 +55,7 @@
 
 
 
-<img align="right" alt="GIF" height="400" width="800" src="https://i.pinimg.com/236x/03/14/2f/03142f69a78c857f88c15f9d270c72e3.jpg" />
+<img align="right" alt="GIF" height="500" width="800" src="https://i.pinimg.com/236x/db/09/a9/db09a98ac51413ff3ea24071d0d191e1.jpg" />
 <br>
 <p align="center"> 誰も良くなりたくないのなら、良いことは悪くないようにしよう、世界は混乱している、それは私たちをどこまで連れて行くのだろうか？ 元カレは人生が短いので、また泣きながら自分に言い聞かせて、戻ってきてみませんか？私はそれをしますが、私のためではありません、私はそのようになりたくありませんでしたが、残念ながら私はそうです、あなたは私を許しますか？
 </p>
