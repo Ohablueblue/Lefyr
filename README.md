@@ -1,16 +1,4 @@
-#                                                                    *Beutrano*
-
-<p align="center">
-<a href="https://twitter.com/Beutrano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Beutrano" height="20" width="20" /></a>
-<a href="https://fb.com/Beutrano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Beutrano" height="20" width="20" /></a>
-<a href="https://instagram.com/Beutrano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Beutrano" height="20" width="20" /></a>
-</p>
-
-<img align="right" alt="GIF" height="250" width="250"  src="https://www.pikpng.com/pngl/b/198-1987903_computer-overlays-vaporwave-aesthetic-tabs-aesthetic-computer-window.png" />
-
-<p align="center">Hello, my name is Command, I am 17 years old and I am currently living in Kyoto, Japan. I am graduated in Information Technology and I am studying Computer Networks and Database.
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Beutrano" alt="maykbrito" /> </p>
+#                                                                    *Kookv*
 
 #                                                                    **MY SETUP**
 
@@ -55,24 +43,4 @@
 [![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/Beutrano "XCode")](https://github.com/Beutrano)
 [![AzureDevops](https://img.shields.io/badge/-0175C2?style=flat&logo=azureDevops&logoColor=white&link=https://github.com/Beutrano "AzureDevops")](https://github.com/Beutrano)
 [![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/Beutrano "LeetCode")](https://github.com/Beutrano)
-
-
-
-<img align="right" alt="GIF" height="400" width="800" src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1302a9a9-3623-4e8a-ae62-6386012c8391/17-notepad-opt.jpg" />
-<br>
-<p align="center"> 誰も良くなりたくないのなら、良いことは悪くないようにしよう、世界は混乱している、それは私たちをどこまで連れて行くのだろうか？ 元カレは人生が短いので、また泣きながら自分に言い聞かせて、戻ってきてみませんか？私はそれをしますが、私のためではありません、私はそのようになりたくありませんでしたが、残念ながら私はそうです、あなたは私を許しますか？
-</p>
-<p align="center">
-<a href="https://discord.gg/RqaHAWzgGN" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
-</p>
-<br><br>
-
- <details style='text-align: center;' align='center'>
-  <summary> Click Here </summary>
-  <p style="text-align: center;"align="center">============================================================</p>
-  <p style="text-align: center;"align="center"><p style="text-align: center;"align="center"><a href="https://github.com/Beutrano"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Beutrano&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=03ff07&text_color=9f9f9f&bg_color=000000" alt="G3ZZING stats" /></a></p>
-  <p style="text-align: center;"align="center"><a href="https://github.com/Beutrano?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beutrano&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000" /></a></p>
-  <p style="text-align: center;"align="center">============================================================</p>
-</details>
-
 
