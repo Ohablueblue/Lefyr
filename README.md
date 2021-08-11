@@ -6,7 +6,7 @@
 - 📫 How to reach me: Twitter ([@Command40A71](https://twitter.com/Command40A71)) or Discord (comando#0001)
 - 😄 Pronouns: He/Him
 
-([My Favorite Song](https://www.youtube.com/watch?v=3sTHxSbRHqc))
+<div align="center">([My Favorite Song](https://www.youtube.com/watch?v=3sTHxSbRHqc))</div>
 
 
 ### Wakatime Stats
