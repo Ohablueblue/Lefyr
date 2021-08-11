@@ -6,7 +6,9 @@
 - 📫 How to reach me: Twitter ([@Command40A71](https://twitter.com/Command40A71)) or Discord (comando#0001)
 - 😄 Pronouns: He/Him
 
-<embed width="560" height="315" src="https://www.youtube.com/embed/3sTHxSbRHqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></embed>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3sTHxSbRHqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div width="560" height="315" src="https://www.youtube.com/embed/3sTHxSbRHqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></div>
 </div>
 
 
