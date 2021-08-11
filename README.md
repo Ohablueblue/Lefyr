@@ -6,6 +6,8 @@ Hello, Nice to meet you, I'm currently studying computer engineering, I use gith
 - 📫 How to reach me: Twitter ([@Command40A71](https://twitter.com/Command40A71)) or Discord (comando#0001)
 - 😄 Pronouns: He/Him
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3kz3ws9xopi8iywmihcteyzwh&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
