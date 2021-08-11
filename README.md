@@ -6,7 +6,9 @@
 - 📫 How to reach me: Twitter ([@Command40A71](https://twitter.com/Command40A71)) or Discord (comando#0001)
 - 😄 Pronouns: He/Him
 
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=3sTHxSbRHqc)](https://www.youtube.com/watch?v=3sTHxSbRHqc "Everything Is AWESOME")
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=3sTHxSbRHqc"><img src="https://img.youtube.com/vi/3sTHxSbRHqc/0.jpg" alt="MY FAVORITE SONG"></a>
+</div>
 
 
 
