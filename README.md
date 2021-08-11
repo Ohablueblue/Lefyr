@@ -6,7 +6,7 @@
 - 📫 How to reach me: Twitter ([@Command40A71](https://twitter.com/Command40A71)) or Discord (comando#0001)
 - 😄 Pronouns: He/Him
 
-<embed align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3kz3ws9xopi8iywmihcteyzwh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)</embed>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3sTHxSbRHqc?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Wakatime Stats
 
