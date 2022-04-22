@@ -1,10 +1,3 @@
-<h1 align="center">Command</h1>
-<h3 align="center">Nice to meet you!</h3>
-<h3 align="center">Hello, Nice to meet you, I'm currently studying computer engineering, I use github as a way to interact with society with content related to programming/hardware, I'm graduated in computer technician, in python, swift and golang, I hope you like it of the contents that I will post here, I am Brazilian, I am 19 years old. I'm a variety developer that dabbles in multiple fields such as web, desktop (Windows), Discord, front, and back end development. Not that I'm good at a couple of those, mind you, but I try.</h3>
-
-
-- 📫 How to reach me: Twitter ([@Command40A71](https://twitter.com/Command40A71)) or Discord (comando#0001), ([My Favorite Song](https://www.youtube.com/watch?v=3sTHxSbRHqc))
-- 😄 Pronouns: He/Him
 
 
 
